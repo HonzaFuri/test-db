@@ -1,0 +1,19 @@
+{
+  "newsItems": [
+    {
+      "title": "Rozšíření optické sítě v Tištíně",
+      "date": "15. dubna 2025",
+      "excerpt": "Dokončili jsme výstavbu optické sítě v Tištíně. První zákazníci již využívají vysokorychlostní optické připojení."
+    },
+    {
+      "title": "Speciální nabídka - TV zdarma na 3 měsíce",
+      "date": "10. dubna 2025",
+      "excerpt": "Vzhledem k velkému zájmu prodlužujeme speciální nabídku! Každý nový zákazník dostane voucher na 3 měsíce TV služeb zdarma."
+    },
+    {
+      "title": "Nový zákaznický portál",
+      "date": "5. dubna 2025",
+      "excerpt": "Spustili jsme nový online zákaznický portál s vylepšenými funkcemi pro správu služeb a placení faktur."
+    }
+  ]
+}
