@@ -28,5 +28,89 @@
       "excerpt": "Spustili jsme nový online zákaznický portál s vylepšenými funkcemi pro správu služeb a placení faktur.",
        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
+  ],
+   "services": [
+    {
+      "icon": "Wifi",
+      "title": "Internetové připojení",
+      "description": "Vysokorychlostní optický a bezdrátový internet s rychlostí až 1 Gbps. Bez datových limitů a se stabilním připojením."
+    },
+    {
+      "icon": "Monitor",
+      "title": "Chytrá televize",
+      "description": "IPTV služba s více než 120 kanály, 7denním zpětným přehráváním a možností sledování na více zařízeních současně."
+    },
+    {
+      "icon": "Phone",
+      "title": "VoIP telefonie",
+      "description": "Moderní telefonní služba s nízkými cenami volání, mezinárodními hovory a pokročilými funkcemi."
+    }
+  ],
+  "plans": [
+    {
+      "name": "Domácí Základ",
+      "speed": "50 Mbps",
+      "price": "399 Kč",
+      "features": [
+        "50 Mbps download",
+        "20 Mbps upload",
+        "Bezdrátový router v ceně",
+        "Instalace zdarma"
+      ],
+      "popularFlag": false
+    },
+    {
+      "name": "Domácí Premium",
+      "speed": "300 Mbps",
+      "price": "599 Kč",
+      "features": [
+        "300 Mbps download",
+        "100 Mbps upload",
+        "Pokročilý router v ceně",
+        "Instalace zdarma",
+        "Prioritní technická podpora"
+      ],
+      "popularFlag": true
+    },
+    {
+      "name": "Fiber Pro",
+      "speed": "1 Gbps",
+      "price": "899 Kč",
+      "features": [
+        "1 Gbps download",
+        "300 Mbps upload",
+        "Prémiový router v ceně",
+        "Instalace zdarma",
+        "Technická podpora 24/7",
+        "Pevná IP adresa"
+      ],
+      "popularFlag": false
+    }
+  ],
+  "coverageLocations": [
+    {
+      "city": "Prostějov",
+      "address": "Barákova 5, 796 01 Prostějov"
+    },
+    {
+      "city": "Vyškov",
+      "address": "Dobrovského 3, 682 01 Vyškov"
+    },
+    {
+      "city": "Olomouc",
+      "address": "Valdenská 27/363, 77900 Olomouc"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jan Novák",
+      "location": "Prostějov",
+      "quote": "Po přechodu k INFOS máme konečně stabilní internet. Technici byli profesionální a instalace proběhla rychle."
+    },
+    {
+      "name": "Marie Svobodová",
+      "location": "Vyškov",
+      "quote": "Skvělé služby a podpora. Kdykoliv mám problém, rychle reagují a promptně ho vyřeší. Optické připojení je neuvěřitelně rychlé."
+    }
   ]
 }
