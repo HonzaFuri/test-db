@@ -23,9 +23,37 @@
     },
      {
       "id": 4,
-      "title": "Nový zákaznický portál",
+      "title": "NIO Haná - Slovácko",
       "date": "5. dubna 2025",
-      "excerpt": "Spustili jsme nový online zákaznický portál s vylepšenými funkcemi pro správu služeb a placení faktur.",
+      "excerpt": "Podívejte se na fotogalerii z výstavby sítě. Obce Bohaté Málkovice, Boškůvky, Chvalkovice na Hané, Hoštice-Heroltice,..",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 55,
+      "title": "Optická síť Dětkovice (okres Vyškov).",
+      "date": "5. dubna 2025",
+      "excerpt": "Zprovoznili jsme optickou síť v Dětkovicích. První zákazní jsou již přepojení na optiku ;-)..",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 68,
+      "title": "Vysílač Větrník připojený na optiku.",
+      "date": "15. dubna 2025",
+      "excerpt": "Přepojili jsme významný POP na pateřní optické vedení. Vysílač Větrník (u vodojemu mezi Letonicemi a Dražovicemi)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 79,
+      "title": "Zákaz přetáčení reklam na kanálech Primy",
+      "date": "5. dubna 2025",
+      "excerpt": "Od 1. června 2022 jsme v naší Kuki nuceni zakázat přetáčení celých reklamních bloků u TV kanálů ze skupiny FTV",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+    {
+      "id": 80,
+      "title": "Změna mailového serveru",
+      "date": "23. května 2023",
+      "excerpt": "V noci z 27.6. na 28.6. dojde z důvodu zvýšení zabezpečení k přesunu maiserveru pro doménu infos.cz na nový server. !! Změna se týká POUZE domény infos.cz !!! Více dále v textu",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ],
